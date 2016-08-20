@@ -1,0 +1,40 @@
+.copy {
+  font-family: monospace;
+}
+
+.head {
+  color: blue
+}
+
+.main {float: right;
+}
+
+body {
+  background-color: whitesmoke
+}
+
+.practice {
+  font-size: medium;
+  color: black
+}
+
+.input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 15%;
+}
+
+.sidebar {
+  width: 15%auto;
+}
+
+.my-class {
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 1px;
+}
