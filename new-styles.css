@@ -3,7 +3,7 @@
 }
 
 .head {
-  color: blue
+  color: blue;
 }
 
 .main {float: right;
@@ -13,10 +13,6 @@ body {
   background-color: whitesmoke
 }
 
-.practice {
-  font-size: medium;
-  color: black
-}
 
 .input[type=text] {
     width: 130px;
